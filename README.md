@@ -1,12 +1,12 @@
-# strongswan-configuration
-
+# Strongswan vpn serving configuration
+> Establish a IPSec StrongSwan vpn service on Ubuntu 20.04. Just enter the `public ip` of the instance and the `name` of the service, then the configursation files will be generated.
 ## Quick Start
 ```
 bash run.sh
 ```
 - Bingo!!
 
-## Step by step
+# Step by step confuguration
 
 ## Set Up IPSec StrongSwan on Ubuntu 20.04
 - [Reference 1](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ikev2-vpn-server-with-strongswan-on-ubuntu-20-04)
